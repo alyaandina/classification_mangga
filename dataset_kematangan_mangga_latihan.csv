@@ -1,0 +1,501 @@
+diameter_cm,berat_gram,tebal_kulit_mm,kadar_gula_brix,asal_daerah,warna_kulit,musim_panen,kematangan
+8.51,262.7,0.42,16.8,Probolinggo,kuning,hujan,Terlalu Matang
+7.45,169.9,0.4,14.9,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+7.74,194.2,0.31,17.3,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+7.93,311.8,0.53,14.3,Kediri,kuning kecokelatan,hujan,Terlalu Matang
+6.47,132.2,0.52,7.6,Kediri,hijau,hujan,Mentah
+7.62,213.4,0.6,8.7,Lainnya,hijau,hujan,Mentah
+8.07,177.6,0.38,14.9,Probolinggo,kuning,kemarau,Matang
+6.59,165.7,0.41,6.6,Probolinggo,hijau,kemarau,Mentah
+7.07,190.3,0.4,14.5,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+5.83,189.6,0.54,9.2,Indramayu,hijau,hujan,Mentah
+6.36,186.9,0.63,8.0,Indramayu,hijau,hujan,Mentah
+7.76,240.5,0.49,9.8,Probolinggo,kuning,kemarau,Matang
+5.04,241.3,0.63,9.4,Lainnya,hijau kekuningan,hujan,Mentah
+7.52,253.3,0.69,16.5,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+7.17,230.2,0.7,8.9,Probolinggo,hijau kekuningan,hujan,Mentah
+6.36,195.7,0.45,7.7,Kediri,hijau,kemarau,Mentah
+6.45,164.6,0.57,9.2,Indramayu,hijau,kemarau,Mentah
+8.62,230.1,0.57,13.2,Indramayu,kuning,kemarau,Matang
+5.64,135.0,0.71,7.4,Probolinggo,hijau,kemarau,Mentah
+7.82,184.5,0.54,13.8,Lainnya,kuning kecokelatan,hujan,Terlalu Matang
+7.36,219.3,0.33,16.9,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+7.06,139.2,0.3,16.7,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+7.37,202.0,0.45,15.9,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+6.51,163.9,0.51,8.9,Probolinggo,hijau kekuningan,hujan,Mentah
+8.3,288.0,0.49,15.1,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+7.96,140.3,0.68,7.7,Indramayu,hijau,hujan,Mentah
+7.0,209.7,0.46,14.7,Kediri,kuning,kemarau,Terlalu Matang
+7.59,197.8,0.57,8.2,Indramayu,hijau kekuningan,hujan,Mentah
+7.77,118.1,0.48,7.5,Kediri,kuning,hujan,Matang
+7.18,231.8,0.53,6.0,Kediri,hijau,kemarau,Mentah
+6.64,201.9,0.59,7.3,Kediri,hijau,hujan,Mentah
+8.0,248.3,0.47,11.2,Kediri,hijau kekuningan,hujan,Matang
+7.47,296.3,0.45,13.0,Kediri,kuning kehijauan,hujan,Matang
+7.56,249.6,0.53,17.2,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+6.62,227.6,0.39,15.7,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+7.47,227.9,0.46,17.2,Indramayu,hijau kekuningan,kemarau,Matang
+6.81,183.3,0.55,8.4,Indramayu,hijau,kemarau,Mentah
+7.5,202.2,0.62,9.3,Kediri,hijau,hujan,Mentah
+5.92,193.2,0.6,8.9,Kediri,hijau kekuningan,kemarau,Mentah
+6.22,144.2,0.54,9.9,Probolinggo,hijau,hujan,Mentah
+8.47,235.2,0.43,14.0,Lainnya,kuning,hujan,Matang
+6.88,126.3,0.59,8.6,Kediri,hijau,kemarau,Mentah
+8.09,290.9,0.36,14.7,Kediri,hijau kekuningan,hujan,Matang
+7.03,235.4,0.49,12.8,Lainnya,kuning,hujan,Matang
+7.62,226.0,0.38,14.7,Lainnya,kuning,hujan,Terlalu Matang
+6.78,193.3,0.68,9.8,Kediri,hijau,hujan,Mentah
+6.87,264.5,0.26,17.7,Kediri,kuning kecokelatan,hujan,Terlalu Matang
+6.96,283.7,0.43,13.3,Lainnya,kuning,hujan,Matang
+7.17,126.1,0.58,9.3,Probolinggo,hijau,hujan,Mentah
+7.41,364.9,0.42,17.6,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+7.7,310.8,0.45,13.3,Probolinggo,kuning,kemarau,Matang
+6.56,191.6,0.25,15.4,Lainnya,kuning kecokelatan,hujan,Terlalu Matang
+7.28,329.7,0.44,12.6,Indramayu,kuning kehijauan,kemarau,Matang
+8.73,229.6,0.33,14.1,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+6.58,282.0,0.36,12.2,Lainnya,hijau kekuningan,kemarau,Matang
+8.13,262.3,0.39,11.0,Kediri,hijau kekuningan,kemarau,Matang
+6.88,263.0,0.45,14.0,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+7.56,257.2,0.54,11.7,Indramayu,kuning,kemarau,Matang
+6.37,188.0,0.34,12.9,Kediri,kuning,kemarau,Terlalu Matang
+7.11,245.9,0.38,14.0,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+7.72,227.7,0.49,12.1,Kediri,kuning kehijauan,kemarau,Matang
+6.98,256.8,0.33,15.9,Lainnya,kuning,kemarau,Terlalu Matang
+8.22,241.3,0.2,12.7,Probolinggo,kuning,kemarau,Terlalu Matang
+7.03,208.8,0.44,13.9,Indramayu,hijau kekuningan,kemarau,Matang
+7.0,264.0,0.42,13.4,Probolinggo,hijau kekuningan,kemarau,Matang
+8.6,297.4,0.38,15.7,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+8.38,259.3,0.41,14.8,Kediri,kuning kecokelatan,hujan,Terlalu Matang
+8.04,247.1,0.34,17.6,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+5.53,209.5,0.46,11.9,Probolinggo,hijau,hujan,Mentah
+8.75,272.9,0.31,13.7,Kediri,hijau kekuningan,kemarau,Matang
+9.58,233.1,0.41,14.2,Lainnya,kuning kehijauan,hujan,Matang
+7.13,126.3,0.5,9.3,Lainnya,hijau kekuningan,kemarau,Mentah
+6.08,257.5,0.5,7.7,Kediri,hijau,hujan,Mentah
+6.24,233.3,0.4,11.1,Probolinggo,kuning,kemarau,Terlalu Matang
+6.43,148.4,0.52,10.0,Lainnya,hijau,hujan,Mentah
+6.9,226.5,0.37,15.0,Kediri,kuning,hujan,Matang
+7.06,144.9,0.33,13.4,Lainnya,kuning,kemarau,Terlalu Matang
+9.01,291.8,0.32,16.5,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+6.96,235.8,0.54,13.3,Lainnya,kuning kehijauan,hujan,Matang
+6.66,172.6,0.43,15.3,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+6.14,178.3,0.54,7.5,Indramayu,hijau kekuningan,kemarau,Mentah
+6.6,232.9,0.39,11.7,Kediri,hijau kekuningan,kemarau,Matang
+6.41,186.0,0.38,13.1,Probolinggo,kuning kehijauan,kemarau,Matang
+8.15,255.2,0.26,15.0,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+6.87,256.2,0.43,13.7,Lainnya,hijau kekuningan,kemarau,Matang
+7.6,282.4,0.3,12.9,Lainnya,kuning,kemarau,Terlalu Matang
+6.52,172.4,0.53,9.0,Lainnya,hijau,kemarau,Mentah
+6.92,235.4,0.35,12.4,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+7.85,277.5,0.42,14.2,Lainnya,kuning kehijauan,hujan,Matang
+6.38,300.5,0.44,11.3,Indramayu,kuning kehijauan,hujan,Matang
+8.24,196.4,0.55,13.8,Kediri,kuning kecokelatan,hujan,Terlalu Matang
+6.94,247.7,0.49,13.8,Indramayu,kuning,hujan,Matang
+8.23,311.1,0.43,16.6,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+4.91,223.2,0.55,9.8,Kediri,hijau,hujan,Mentah
+8.06,235.2,0.73,7.3,Probolinggo,hijau,hujan,Mentah
+7.59,153.9,0.49,9.2,Lainnya,hijau kekuningan,kemarau,Mentah
+7.77,269.1,0.3,14.0,Indramayu,hijau kekuningan,kemarau,Matang
+5.9,136.2,0.6,9.0,Probolinggo,hijau kekuningan,kemarau,Mentah
+7.5,244.2,0.58,12.7,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+6.07,142.6,0.48,9.0,Indramayu,hijau,hujan,Mentah
+8.1,252.6,0.36,13.6,Lainnya,kuning,kemarau,Matang
+7.72,189.2,0.43,11.9,Kediri,kuning kehijauan,hujan,Matang
+7.75,212.5,0.32,9.9,Kediri,hijau kekuningan,hujan,Matang
+7.21,142.7,0.36,15.7,Indramayu,kuning,kemarau,Terlalu Matang
+7.68,185.9,0.65,7.4,Lainnya,hijau,kemarau,Mentah
+8.41,194.7,0.59,8.3,Indramayu,hijau,hujan,Mentah
+6.23,274.6,0.59,7.6,Probolinggo,hijau,kemarau,Mentah
+7.98,229.3,0.31,15.2,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+7.51,219.9,0.55,5.6,Probolinggo,hijau,hujan,Mentah
+7.29,219.1,0.56,12.8,Lainnya,kuning,hujan,Matang
+7.21,238.5,0.33,11.5,Indramayu,kuning,kemarau,Matang
+8.72,252.9,0.5,10.2,Indramayu,hijau kekuningan,hujan,Matang
+6.72,242.1,0.39,15.3,Kediri,kuning,hujan,Matang
+6.25,212.7,0.37,8.1,Probolinggo,hijau kekuningan,hujan,Mentah
+7.79,207.3,0.58,9.4,Indramayu,hijau,hujan,Mentah
+6.6,177.6,0.42,6.7,Lainnya,hijau,kemarau,Mentah
+6.89,170.9,0.34,9.4,Lainnya,hijau,kemarau,Mentah
+6.34,196.1,0.34,13.1,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+7.06,183.6,0.47,7.5,Kediri,hijau kekuningan,hujan,Mentah
+7.16,175.7,0.35,12.4,Kediri,kuning,hujan,Matang
+7.6,357.4,0.36,12.8,Kediri,kuning,kemarau,Matang
+8.99,277.1,0.44,13.9,Indramayu,kuning kehijauan,kemarau,Matang
+6.34,251.6,0.42,17.0,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+7.37,322.0,0.36,16.8,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+8.41,239.9,0.32,14.0,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+6.38,210.3,0.41,10.8,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+8.28,283.5,0.31,15.9,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+8.09,275.5,0.39,14.3,Indramayu,kuning,kemarau,Terlalu Matang
+7.45,321.1,0.49,14.5,Lainnya,hijau kekuningan,kemarau,Matang
+7.64,276.3,0.43,17.5,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+6.21,147.1,0.51,9.0,Probolinggo,hijau,kemarau,Mentah
+7.23,277.9,0.48,13.5,Probolinggo,hijau kekuningan,hujan,Matang
+7.3,323.8,0.42,15.5,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+7.28,239.4,0.39,13.7,Probolinggo,hijau kekuningan,kemarau,Matang
+7.83,190.6,0.52,11.8,Probolinggo,hijau kekuningan,kemarau,Matang
+7.5,161.8,0.51,7.9,Probolinggo,hijau,kemarau,Mentah
+6.48,158.2,0.44,8.1,Probolinggo,hijau,kemarau,Mentah
+7.95,268.3,0.5,15.7,Probolinggo,kuning,hujan,Terlalu Matang
+8.4,254.2,0.39,15.6,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+6.03,144.4,0.64,9.4,Probolinggo,hijau,hujan,Mentah
+7.12,208.2,0.39,5.8,Indramayu,hijau,kemarau,Mentah
+8.25,205.7,0.41,10.9,Probolinggo,kuning kehijauan,hujan,Matang
+8.45,219.7,0.5,15.8,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+6.0,252.1,0.53,7.0,Indramayu,hijau,kemarau,Mentah
+7.88,218.9,0.44,14.6,Indramayu,hijau kekuningan,hujan,Matang
+5.81,225.3,0.41,10.4,Probolinggo,hijau,kemarau,Mentah
+6.45,174.0,0.47,9.0,Lainnya,hijau kekuningan,kemarau,Mentah
+5.96,241.8,0.44,14.6,Probolinggo,kuning,kemarau,Terlalu Matang
+6.98,175.4,0.61,7.1,Indramayu,hijau,hujan,Mentah
+6.74,197.9,0.56,8.0,Lainnya,hijau,kemarau,Mentah
+7.34,159.8,0.58,12.3,Lainnya,hijau kekuningan,kemarau,Matang
+8.29,207.1,0.47,16.2,Lainnya,kuning,hujan,Terlalu Matang
+6.47,246.8,0.27,15.8,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+7.79,309.4,0.42,10.8,Kediri,kuning,kemarau,Matang
+6.69,226.5,0.51,14.6,Lainnya,hijau kekuningan,kemarau,Matang
+7.53,158.6,0.47,14.1,Lainnya,hijau kekuningan,kemarau,Matang
+6.4,231.9,0.48,7.5,Probolinggo,hijau kekuningan,hujan,Mentah
+7.44,173.7,0.48,7.9,Kediri,hijau,hujan,Mentah
+6.77,154.2,0.35,16.6,Indramayu,kuning,hujan,Terlalu Matang
+8.39,239.0,0.37,12.9,Kediri,hijau kekuningan,hujan,Matang
+6.45,154.5,0.51,9.3,Probolinggo,hijau,hujan,Mentah
+7.25,197.2,0.49,6.6,Kediri,hijau,hujan,Mentah
+7.56,211.2,0.51,12.2,Kediri,kuning,hujan,Matang
+8.22,323.3,0.37,11.7,Indramayu,kuning kehijauan,hujan,Matang
+7.1,169.7,0.3,5.9,Indramayu,hijau,kemarau,Mentah
+6.39,158.7,0.47,11.7,Indramayu,hijau,kemarau,Mentah
+8.63,279.8,0.34,12.3,Lainnya,kuning kecokelatan,hujan,Terlalu Matang
+7.65,164.4,0.2,15.1,Lainnya,kuning,hujan,Terlalu Matang
+6.89,198.3,0.64,10.2,Probolinggo,hijau,hujan,Mentah
+6.26,163.1,0.64,10.3,Lainnya,hijau,hujan,Mentah
+8.22,283.3,0.44,12.0,Indramayu,kuning,kemarau,Matang
+5.76,159.4,0.51,13.1,Kediri,kuning,hujan,Matang
+6.42,251.5,0.55,14.1,Lainnya,kuning,kemarau,Terlalu Matang
+6.54,256.9,0.29,14.6,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+5.5,216.8,0.2,15.1,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+6.77,219.8,0.57,12.2,Lainnya,hijau kekuningan,hujan,Matang
+7.82,348.6,0.46,17.7,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+6.77,287.1,0.52,14.0,Kediri,hijau kekuningan,hujan,Matang
+7.31,202.5,0.34,13.7,Indramayu,kuning,hujan,Terlalu Matang
+6.96,219.4,0.58,11.9,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+8.05,314.6,0.41,13.7,Probolinggo,hijau kekuningan,kemarau,Matang
+7.61,253.1,0.49,14.3,Probolinggo,kuning,hujan,Matang
+7.36,138.1,0.61,8.9,Probolinggo,hijau,hujan,Mentah
+7.58,196.6,0.33,12.6,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+6.59,231.2,0.36,13.0,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+6.4,235.8,0.48,13.9,Indramayu,kuning kehijauan,kemarau,Matang
+7.93,240.4,0.31,15.8,Indramayu,hijau kekuningan,kemarau,Matang
+6.68,166.3,0.46,14.4,Kediri,kuning,kemarau,Matang
+6.65,247.5,0.54,14.9,Indramayu,hijau kekuningan,kemarau,Matang
+6.74,280.8,0.39,14.5,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+7.31,132.4,0.66,8.0,Probolinggo,hijau,kemarau,Mentah
+8.27,230.7,0.43,15.8,Indramayu,kuning,hujan,Terlalu Matang
+6.56,191.4,0.59,12.3,Indramayu,kuning,hujan,Matang
+7.01,274.8,0.38,14.4,Indramayu,kuning,hujan,Terlalu Matang
+6.41,192.3,0.63,8.6,Kediri,hijau kekuningan,kemarau,Mentah
+6.8,280.3,0.52,15.3,Kediri,kuning kehijauan,hujan,Matang
+6.74,211.0,0.5,8.3,Probolinggo,hijau kekuningan,hujan,Mentah
+6.17,181.4,0.52,9.8,Kediri,hijau,hujan,Mentah
+8.77,195.2,0.43,13.7,Probolinggo,kuning,hujan,Terlalu Matang
+7.62,242.1,0.53,11.7,Lainnya,hijau kekuningan,kemarau,Matang
+7.03,156.6,0.56,7.8,Kediri,hijau,hujan,Mentah
+8.97,234.9,0.6,13.1,Indramayu,kuning,hujan,Matang
+6.88,180.0,0.55,9.7,Indramayu,hijau kekuningan,hujan,Mentah
+8.07,141.1,0.3,16.6,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+7.8,183.2,0.55,11.9,Indramayu,kuning,kemarau,Matang
+5.57,250.3,0.45,9.4,Kediri,hijau kekuningan,hujan,Mentah
+6.99,248.0,0.49,14.7,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+7.51,261.2,0.45,12.7,Kediri,kuning,kemarau,Matang
+7.35,134.4,0.53,9.7,Indramayu,hijau,hujan,Mentah
+6.61,245.9,0.4,14.8,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+7.6,222.1,0.53,13.4,Kediri,kuning,hujan,Terlalu Matang
+6.4,316.2,0.46,13.6,Probolinggo,hijau kekuningan,kemarau,Matang
+6.01,241.9,0.45,12.7,Probolinggo,hijau kekuningan,hujan,Matang
+8.36,239.9,0.61,14.3,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+7.33,280.5,0.42,13.4,Indramayu,hijau kekuningan,hujan,Matang
+6.86,142.9,0.23,12.7,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+6.87,216.5,0.32,14.7,Kediri,kuning kecokelatan,hujan,Terlalu Matang
+8.19,208.3,0.26,12.5,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+6.18,198.9,0.47,8.0,Probolinggo,hijau,hujan,Mentah
+7.91,191.0,0.5,11.8,Indramayu,hijau kekuningan,hujan,Matang
+7.59,207.4,0.39,17.4,Lainnya,kuning,hujan,Terlalu Matang
+7.55,207.0,0.4,14.5,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+6.09,148.9,0.54,8.9,Probolinggo,hijau,kemarau,Mentah
+6.67,155.0,0.68,8.1,Indramayu,hijau kekuningan,hujan,Mentah
+5.7,177.0,0.39,7.6,Probolinggo,hijau,hujan,Mentah
+8.69,262.8,0.25,14.6,Lainnya,kuning kecokelatan,hujan,Terlalu Matang
+7.36,257.1,0.37,14.3,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+5.91,181.0,0.39,10.2,Lainnya,hijau,hujan,Mentah
+8.44,377.9,0.43,16.0,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+5.84,152.6,0.32,7.3,Lainnya,hijau,kemarau,Mentah
+8.04,233.1,0.51,13.6,Indramayu,hijau kekuningan,hujan,Matang
+4.99,111.4,0.55,8.2,Kediri,hijau,kemarau,Mentah
+6.68,236.0,0.59,9.4,Lainnya,hijau kekuningan,kemarau,Mentah
+5.22,136.2,0.39,7.5,Probolinggo,hijau,hujan,Mentah
+6.71,289.5,0.6,14.8,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+7.07,209.5,0.58,10.4,Lainnya,kuning,hujan,Matang
+6.88,268.6,0.7,9.8,Probolinggo,hijau,kemarau,Mentah
+7.48,340.2,0.52,13.3,Probolinggo,hijau kekuningan,kemarau,Matang
+7.74,224.7,0.45,10.5,Indramayu,hijau,kemarau,Mentah
+7.24,240.8,0.41,12.1,Indramayu,kuning,kemarau,Matang
+8.53,164.1,0.35,11.5,Indramayu,kuning kehijauan,kemarau,Matang
+8.69,227.8,0.43,19.2,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+7.82,215.7,0.44,13.0,Probolinggo,kuning kehijauan,kemarau,Matang
+7.41,287.3,0.29,11.1,Indramayu,hijau kekuningan,kemarau,Matang
+8.14,204.9,0.36,11.7,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+7.4,255.4,0.55,15.2,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+7.43,229.1,0.51,10.2,Lainnya,kuning kecokelatan,hujan,Terlalu Matang
+5.34,177.6,0.58,7.4,Probolinggo,hijau,hujan,Mentah
+6.31,254.2,0.39,13.1,Kediri,kuning kehijauan,hujan,Matang
+7.84,269.8,0.41,11.5,Probolinggo,kuning kehijauan,hujan,Matang
+6.87,239.8,0.47,12.4,Kediri,hijau kekuningan,hujan,Matang
+7.9,291.0,0.47,13.7,Probolinggo,kuning,kemarau,Matang
+7.05,214.2,0.55,9.4,Kediri,hijau kekuningan,hujan,Mentah
+7.25,128.3,0.46,16.0,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+7.5,245.8,0.47,16.0,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+6.41,244.5,0.74,6.5,Indramayu,hijau kekuningan,hujan,Mentah
+6.16,144.5,0.2,12.8,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+8.3,200.5,0.27,15.3,Lainnya,kuning kecokelatan,hujan,Terlalu Matang
+7.53,194.4,0.63,7.4,Lainnya,hijau,kemarau,Mentah
+9.39,234.1,0.42,13.2,Indramayu,hijau kekuningan,hujan,Matang
+6.86,180.4,0.27,18.1,Kediri,kuning,kemarau,Terlalu Matang
+6.87,306.8,0.42,14.7,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+7.97,259.0,0.44,14.4,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+7.65,198.5,0.69,6.2,Lainnya,hijau,kemarau,Mentah
+6.76,316.8,0.37,11.0,Indramayu,kuning,hujan,Matang
+6.99,238.6,0.28,18.1,Lainnya,kuning kecokelatan,hujan,Terlalu Matang
+8.79,225.2,0.42,12.6,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+6.6,160.0,0.53,10.8,Lainnya,hijau,kemarau,Mentah
+6.3,174.3,0.51,11.7,Kediri,hijau,kemarau,Mentah
+7.32,178.3,0.38,13.3,Indramayu,kuning,kemarau,Matang
+4.74,172.6,0.5,13.8,Probolinggo,kuning,hujan,Terlalu Matang
+6.75,205.9,0.37,12.5,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+6.72,179.8,0.57,7.9,Indramayu,hijau kekuningan,kemarau,Mentah
+8.5,376.6,0.31,11.9,Lainnya,hijau kekuningan,kemarau,Matang
+7.46,233.6,0.42,19.0,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+7.28,238.5,0.45,13.3,Indramayu,kuning,hujan,Terlalu Matang
+6.09,190.2,0.79,7.2,Indramayu,hijau,hujan,Mentah
+8.19,200.0,0.52,14.8,Lainnya,kuning,kemarau,Matang
+8.23,268.0,0.57,13.6,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+6.86,235.4,0.47,15.3,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+8.24,216.8,0.41,14.9,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+6.79,154.6,0.52,6.7,Kediri,hijau,kemarau,Mentah
+6.68,221.9,0.56,8.3,Lainnya,hijau kekuningan,hujan,Mentah
+7.19,239.4,0.32,13.6,Kediri,kuning kehijauan,kemarau,Matang
+7.18,240.1,0.41,17.0,Probolinggo,kuning,kemarau,Terlalu Matang
+8.28,227.2,0.53,17.5,Kediri,kuning,kemarau,Terlalu Matang
+7.09,164.7,0.22,14.5,Probolinggo,kuning,kemarau,Terlalu Matang
+6.45,263.7,0.5,7.6,Indramayu,hijau,kemarau,Mentah
+8.63,263.9,0.5,11.8,Lainnya,kuning kehijauan,kemarau,Matang
+6.81,139.6,0.57,9.7,Indramayu,hijau kekuningan,kemarau,Mentah
+6.33,199.9,0.33,14.2,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+8.73,261.5,0.31,11.9,Indramayu,hijau kekuningan,hujan,Matang
+6.82,90.0,0.58,8.4,Kediri,hijau kekuningan,kemarau,Mentah
+4.55,197.7,0.48,8.6,Lainnya,hijau,kemarau,Mentah
+6.95,152.2,0.31,13.2,Indramayu,kuning,hujan,Terlalu Matang
+8.53,303.4,0.32,19.0,Lainnya,kuning kecokelatan,hujan,Terlalu Matang
+7.86,265.2,0.37,18.8,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+7.68,192.7,0.4,12.0,Kediri,hijau kekuningan,hujan,Matang
+6.65,220.2,0.55,6.8,Lainnya,hijau kekuningan,kemarau,Mentah
+6.48,285.8,0.44,12.6,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+7.01,152.6,0.86,7.2,Kediri,hijau,hujan,Mentah
+6.41,241.5,0.38,13.2,Probolinggo,hijau kekuningan,hujan,Matang
+6.36,183.2,0.61,9.8,Kediri,hijau,kemarau,Mentah
+6.25,260.3,0.53,13.4,Probolinggo,hijau kekuningan,kemarau,Matang
+7.5,235.1,0.53,10.6,Probolinggo,kuning,hujan,Terlalu Matang
+4.5,171.8,0.53,8.0,Lainnya,hijau,hujan,Mentah
+5.89,262.0,0.36,13.3,Indramayu,kuning kehijauan,kemarau,Matang
+7.43,248.6,0.43,10.8,Kediri,kuning,hujan,Matang
+8.47,245.1,0.35,15.9,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+7.26,307.7,0.36,17.0,Kediri,kuning,kemarau,Terlalu Matang
+6.88,234.2,0.56,12.3,Probolinggo,kuning,kemarau,Terlalu Matang
+8.51,203.0,0.46,14.0,Kediri,kuning,hujan,Terlalu Matang
+6.65,146.2,0.49,17.1,Kediri,kuning,hujan,Terlalu Matang
+6.44,140.1,0.54,8.6,Indramayu,hijau,hujan,Mentah
+7.95,264.9,0.45,13.0,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+8.03,272.4,0.46,11.3,Lainnya,hijau kekuningan,hujan,Matang
+6.04,199.6,0.52,9.2,Kediri,hijau,kemarau,Mentah
+7.68,283.1,0.48,13.9,Probolinggo,kuning,kemarau,Matang
+7.41,230.5,0.28,13.6,Probolinggo,hijau kekuningan,kemarau,Matang
+6.79,204.4,0.78,9.7,Probolinggo,hijau,kemarau,Mentah
+7.53,246.0,0.45,15.6,Probolinggo,kuning,kemarau,Matang
+8.51,244.6,0.38,12.3,Kediri,hijau kekuningan,hujan,Matang
+5.99,198.9,0.63,9.0,Kediri,hijau,hujan,Mentah
+7.54,283.5,0.51,13.8,Lainnya,kuning,kemarau,Terlalu Matang
+6.86,182.0,0.6,8.3,Probolinggo,hijau kekuningan,kemarau,Mentah
+7.59,283.2,0.41,14.5,Indramayu,kuning,kemarau,Matang
+6.21,162.9,0.64,8.5,Kediri,hijau,hujan,Mentah
+7.74,295.7,0.32,13.0,Probolinggo,kuning,kemarau,Matang
+7.3,350.0,0.41,18.2,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+6.47,183.2,0.45,8.4,Kediri,hijau kekuningan,kemarau,Mentah
+5.8,261.6,0.52,10.6,Lainnya,kuning kehijauan,hujan,Matang
+7.34,302.7,0.41,13.5,Lainnya,kuning,hujan,Terlalu Matang
+7.32,219.6,0.33,13.1,Lainnya,kuning,hujan,Terlalu Matang
+7.58,246.1,0.51,13.5,Probolinggo,hijau kekuningan,hujan,Matang
+7.17,216.1,0.48,11.9,Kediri,kuning,hujan,Terlalu Matang
+8.31,222.2,0.47,18.5,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+8.33,201.1,0.46,14.9,Indramayu,hijau kekuningan,hujan,Matang
+8.03,300.5,0.45,10.1,Kediri,hijau kekuningan,kemarau,Matang
+5.94,187.8,0.55,8.8,Lainnya,hijau kekuningan,hujan,Mentah
+6.9,267.9,0.49,12.1,Lainnya,kuning,kemarau,Matang
+7.95,148.5,0.41,14.3,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+5.42,187.4,0.44,10.3,Lainnya,hijau,kemarau,Mentah
+7.71,142.4,0.64,7.9,Indramayu,hijau,hujan,Mentah
+8.33,207.8,0.53,14.8,Kediri,kuning kecokelatan,hujan,Terlalu Matang
+8.02,249.6,0.49,12.4,Lainnya,kuning,hujan,Matang
+7.61,315.6,0.29,15.4,Kediri,kuning kecokelatan,hujan,Terlalu Matang
+8.18,226.9,0.34,17.0,Kediri,kuning,hujan,Terlalu Matang
+7.76,177.9,0.56,8.1,Kediri,hijau,kemarau,Mentah
+6.49,251.3,0.53,9.7,Lainnya,hijau kekuningan,kemarau,Matang
+7.58,211.1,0.52,14.1,Lainnya,kuning,kemarau,Terlalu Matang
+7.02,142.0,0.69,9.7,Kediri,hijau kekuningan,kemarau,Mentah
+8.28,289.3,0.37,11.7,Probolinggo,hijau kekuningan,hujan,Matang
+6.51,226.5,0.64,9.5,Probolinggo,hijau,kemarau,Mentah
+6.01,138.2,0.44,6.3,Kediri,hijau,hujan,Mentah
+6.0,217.0,0.59,6.0,Indramayu,hijau kekuningan,kemarau,Mentah
+7.59,279.3,0.44,17.2,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+6.28,255.5,0.36,19.3,Lainnya,kuning,kemarau,Terlalu Matang
+7.07,231.6,0.45,14.7,Indramayu,kuning,kemarau,Matang
+5.08,191.3,0.47,9.2,Indramayu,hijau,kemarau,Mentah
+6.8,140.6,0.68,10.0,Indramayu,hijau,hujan,Mentah
+7.31,253.4,0.45,13.7,Kediri,kuning,hujan,Matang
+6.98,203.5,0.44,15.4,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+8.36,195.1,0.38,13.2,Indramayu,hijau kekuningan,kemarau,Matang
+5.77,199.5,0.53,9.3,Kediri,hijau,kemarau,Mentah
+7.64,204.0,0.44,14.0,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+7.07,301.7,0.26,11.8,Probolinggo,hijau kekuningan,hujan,Matang
+6.96,213.9,0.35,13.1,Lainnya,kuning,hujan,Matang
+5.9,162.2,0.52,7.9,Lainnya,hijau kekuningan,hujan,Mentah
+8.76,222.0,0.48,15.4,Lainnya,kuning,hujan,Terlalu Matang
+6.29,163.8,0.35,9.8,Lainnya,hijau,kemarau,Mentah
+9.58,256.7,0.35,15.8,Lainnya,kuning kecokelatan,hujan,Terlalu Matang
+4.98,184.1,0.33,6.9,Indramayu,hijau kekuningan,hujan,Mentah
+7.99,189.8,0.53,10.9,Probolinggo,hijau kekuningan,kemarau,Matang
+6.0,257.7,0.36,13.1,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+6.25,173.9,0.65,8.5,Kediri,hijau kekuningan,hujan,Mentah
+7.14,156.4,0.59,9.2,Indramayu,hijau kekuningan,kemarau,Mentah
+6.82,190.7,0.64,9.4,Indramayu,hijau kekuningan,hujan,Mentah
+8.94,231.5,0.42,11.3,Lainnya,kuning,hujan,Matang
+6.67,249.5,0.43,11.2,Indramayu,hijau kekuningan,kemarau,Matang
+8.33,244.2,0.49,15.5,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+6.68,300.2,0.48,17.7,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+6.95,204.2,0.41,7.3,Probolinggo,hijau,kemarau,Mentah
+8.06,256.2,0.51,13.3,Lainnya,hijau kekuningan,kemarau,Matang
+8.43,295.1,0.36,17.1,Indramayu,kuning,hujan,Terlalu Matang
+8.11,255.9,0.35,11.8,Kediri,hijau kekuningan,hujan,Matang
+6.76,315.8,0.47,14.2,Probolinggo,hijau kekuningan,kemarau,Matang
+7.22,261.2,0.52,13.5,Lainnya,kuning,kemarau,Matang
+6.46,258.7,0.39,11.7,Indramayu,kuning,kemarau,Terlalu Matang
+6.52,159.0,0.71,8.9,Kediri,hijau,kemarau,Mentah
+7.14,181.4,0.46,18.6,Lainnya,kuning kecokelatan,hujan,Terlalu Matang
+5.78,145.3,0.53,9.5,Indramayu,hijau,kemarau,Mentah
+8.51,298.0,0.49,16.0,Indramayu,hijau kekuningan,hujan,Matang
+7.37,283.7,0.48,12.4,Indramayu,kuning,hujan,Matang
+7.37,118.2,0.65,8.5,Lainnya,hijau,hujan,Mentah
+6.49,330.0,0.5,13.0,Probolinggo,kuning kehijauan,hujan,Matang
+8.35,216.0,0.23,10.3,Indramayu,hijau kekuningan,kemarau,Matang
+7.94,228.2,0.6,13.0,Lainnya,kuning,hujan,Matang
+7.69,295.5,0.54,17.8,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+8.38,278.3,0.59,16.4,Kediri,kuning,hujan,Matang
+7.38,274.8,0.39,12.8,Indramayu,kuning,kemarau,Matang
+7.17,232.9,0.41,13.8,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+7.09,313.0,0.37,11.8,Lainnya,hijau kekuningan,hujan,Matang
+7.19,187.3,0.39,9.4,Indramayu,hijau kekuningan,kemarau,Mentah
+8.19,160.1,0.28,11.3,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+7.77,220.9,0.58,11.7,Probolinggo,kuning,hujan,Matang
+7.71,271.8,0.48,11.7,Probolinggo,kuning,kemarau,Matang
+6.43,246.2,0.45,15.6,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+6.58,171.5,0.45,7.3,Lainnya,hijau,kemarau,Mentah
+7.55,261.0,0.31,12.0,Probolinggo,kuning,kemarau,Matang
+6.31,117.7,0.47,9.2,Kediri,hijau,kemarau,Mentah
+4.52,145.1,0.67,5.2,Kediri,hijau,kemarau,Mentah
+7.69,170.1,0.49,12.1,Lainnya,hijau kekuningan,kemarau,Matang
+7.9,141.4,0.5,10.8,Kediri,kuning,hujan,Matang
+6.55,223.2,0.62,17.5,Probolinggo,kuning,kemarau,Terlalu Matang
+8.94,257.5,0.45,15.2,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+7.89,271.3,0.32,13.2,Probolinggo,kuning,hujan,Terlalu Matang
+8.32,214.8,0.36,9.8,Kediri,hijau kekuningan,hujan,Matang
+7.15,229.7,0.42,16.1,Indramayu,kuning,kemarau,Terlalu Matang
+8.47,235.4,0.31,13.0,Kediri,kuning,hujan,Matang
+6.16,184.2,0.51,8.2,Kediri,hijau,hujan,Mentah
+6.04,208.5,0.66,8.8,Probolinggo,hijau,hujan,Mentah
+7.75,214.7,0.44,12.1,Lainnya,hijau kekuningan,kemarau,Matang
+7.3,229.9,0.56,6.5,Probolinggo,hijau,kemarau,Mentah
+6.25,170.0,0.53,7.2,Kediri,hijau,hujan,Mentah
+7.09,156.7,0.45,7.8,Indramayu,hijau,kemarau,Mentah
+7.12,314.7,0.36,9.8,Lainnya,kuning,hujan,Matang
+5.97,236.3,0.38,15.6,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+8.07,279.8,0.48,13.8,Probolinggo,kuning,hujan,Matang
+8.47,90.0,0.34,16.8,Lainnya,kuning,hujan,Terlalu Matang
+6.84,176.7,0.48,7.7,Probolinggo,hijau,hujan,Mentah
+6.2,217.9,0.5,9.9,Indramayu,hijau,hujan,Mentah
+8.52,213.4,0.2,11.9,Indramayu,kuning kecokelatan,kemarau,Terlalu Matang
+7.13,141.5,0.53,8.4,Indramayu,hijau,kemarau,Mentah
+7.77,210.6,0.4,11.6,Probolinggo,hijau kekuningan,hujan,Matang
+7.83,141.4,0.61,8.9,Indramayu,hijau,hujan,Mentah
+7.96,211.0,0.32,13.4,Kediri,kuning,hujan,Matang
+6.42,286.3,0.23,17.0,Kediri,kuning kecokelatan,hujan,Terlalu Matang
+5.55,205.7,0.51,14.8,Kediri,kuning kehijauan,hujan,Matang
+5.79,167.5,0.63,10.6,Kediri,hijau,hujan,Mentah
+7.69,256.8,0.5,16.3,Lainnya,kuning,kemarau,Matang
+6.03,178.4,0.58,7.3,Kediri,hijau kekuningan,kemarau,Mentah
+8.53,212.8,0.45,12.1,Indramayu,hijau kekuningan,kemarau,Matang
+5.43,206.9,0.36,8.8,Kediri,hijau,kemarau,Mentah
+9.07,258.4,0.46,19.9,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+7.01,253.5,0.36,18.5,Indramayu,kuning kecokelatan,hujan,Terlalu Matang
+6.18,241.0,0.63,7.8,Probolinggo,hijau,kemarau,Mentah
+6.91,235.7,0.46,15.9,Indramayu,kuning,kemarau,Terlalu Matang
+5.64,169.5,0.43,8.9,Probolinggo,hijau,kemarau,Mentah
+6.76,215.7,0.5,8.5,Indramayu,hijau,kemarau,Mentah
+7.43,143.7,0.54,9.3,Indramayu,hijau,hujan,Mentah
+5.02,168.6,0.52,8.3,Lainnya,hijau kekuningan,hujan,Mentah
+7.33,149.7,0.25,15.9,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+7.87,187.6,0.63,8.6,Indramayu,hijau,hujan,Mentah
+6.06,270.0,0.58,15.3,Probolinggo,kuning kecokelatan,hujan,Terlalu Matang
+6.27,180.1,0.58,9.0,Indramayu,hijau kekuningan,kemarau,Mentah
+7.25,147.4,0.41,17.2,Probolinggo,kuning,hujan,Terlalu Matang
+8.14,218.3,0.51,16.2,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+4.69,173.3,0.53,11.0,Kediri,hijau kekuningan,hujan,Mentah
+7.28,288.1,0.6,9.1,Lainnya,hijau,hujan,Mentah
+5.92,150.1,0.6,9.7,Kediri,hijau,kemarau,Mentah
+6.78,247.0,0.6,8.0,Lainnya,hijau kekuningan,hujan,Mentah
+7.13,230.9,0.48,12.6,Indramayu,hijau kekuningan,hujan,Matang
+6.46,114.4,0.54,19.6,Kediri,kuning,hujan,Terlalu Matang
+6.97,164.4,0.65,8.8,Kediri,hijau kekuningan,hujan,Mentah
+6.11,211.2,0.47,7.8,Lainnya,hijau,hujan,Mentah
+6.19,203.1,0.49,8.8,Kediri,hijau,hujan,Mentah
+7.27,258.3,0.5,12.5,Kediri,kuning,kemarau,Matang
+8.92,211.0,0.45,13.0,Probolinggo,kuning,kemarau,Matang
+7.68,226.5,0.41,14.1,Probolinggo,kuning kehijauan,kemarau,Matang
+6.73,252.4,0.28,13.9,Indramayu,kuning,kemarau,Matang
+6.69,213.8,0.56,9.0,Lainnya,hijau kekuningan,hujan,Mentah
+7.67,321.4,0.47,15.1,Kediri,kuning,kemarau,Matang
+5.85,210.7,0.41,8.9,Kediri,hijau,kemarau,Mentah
+7.32,186.5,0.31,17.6,Kediri,kuning kecokelatan,kemarau,Terlalu Matang
+8.14,239.7,0.47,16.6,Lainnya,kuning kecokelatan,kemarau,Terlalu Matang
+5.97,262.5,0.34,12.0,Kediri,hijau kekuningan,kemarau,Matang
+6.75,148.9,0.43,8.0,Indramayu,hijau,hujan,Mentah
+8.68,153.7,0.47,17.6,Probolinggo,kuning kecokelatan,kemarau,Terlalu Matang
+6.7,171.7,0.45,12.8,Indramayu,hijau kekuningan,hujan,Matang
+7.57,264.7,0.39,13.0,Probolinggo,hijau kekuningan,kemarau,Matang
+6.71,270.3,0.45,11.9,Kediri,kuning,kemarau,Matang
+7.55,231.5,0.31,12.7,Probolinggo,hijau kekuningan,kemarau,Matang
+8.18,312.0,0.45,14.2,Kediri,hijau kekuningan,hujan,Matang
+7.75,276.5,0.36,12.9,Lainnya,hijau kekuningan,kemarau,Matang
+7.85,219.7,0.46,8.7,Lainnya,hijau,kemarau,Mentah
+7.45,253.8,0.39,14.2,Indramayu,hijau kekuningan,kemarau,Matang
+7.49,172.4,0.35,14.6,Indramayu,hijau kekuningan,kemarau,Matang
+6.79,169.9,0.59,11.2,Kediri,hijau,kemarau,Mentah
+8.44,258.7,0.54,9.5,Lainnya,hijau kekuningan,hujan,Matang
+7.69,275.0,0.45,13.6,Indramayu,kuning kehijauan,hujan,Matang
+6.64,270.5,0.57,12.9,Indramayu,kuning,hujan,Matang
+6.25,185.8,0.63,9.6,Indramayu,hijau,kemarau,Mentah
+6.27,247.8,0.66,7.3,Indramayu,hijau,hujan,Mentah
+6.41,185.8,0.31,13.2,Kediri,hijau kekuningan,kemarau,Matang
+6.57,160.5,0.42,10.5,Probolinggo,hijau,hujan,Mentah
+8.39,214.4,0.27,15.8,Kediri,kuning kecokelatan,hujan,Terlalu Matang
+7.23,137.9,0.52,7.8,Lainnya,hijau kekuningan,hujan,Mentah
+7.15,312.5,0.36,15.2,Kediri,kuning,kemarau,Terlalu Matang
+6.9,323.9,0.55,13.0,Lainnya,hijau kekuningan,kemarau,Matang
+6.88,139.3,0.48,10.1,Indramayu,hijau kekuningan,hujan,Mentah
