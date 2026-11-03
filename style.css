@@ -732,3 +732,6 @@ footer,
     justify-content: center;
   }
 }
+[data-testid="stToolbar"],
+[data-testid="stDecoration"],
+[data-testid="stStatusWidget"] { display: none !important; }
