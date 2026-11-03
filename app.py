@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import joblib
 import streamlit.components.v1 as components
 from pathlib import Path
 from sklearn.neighbors import KNeighborsClassifier
@@ -22,7 +21,7 @@ st.set_page_config(
 )
 
 BASE_DIR = Path(__file__).resolve().parent
-MODEL_PATH = BASE_DIR / "model_klasifikasi_mangga_knn.joblib"
+CSV_PATH = BASE_DIR / "dataset_kematangan_mangga_latihan.csv"
 CSS_PATH = BASE_DIR / "style.css"
 
 if CSS_PATH.exists():
@@ -48,18 +47,54 @@ def ulangi_analisis():
 
 
 # ==========================================
-# LOAD MODEL
+# LOAD & LATIH MODEL OTOMATIS DARI CSV
 # ==========================================
 
 @st.cache_resource
-def load_model():
-    if not MODEL_PATH.exists():
-        raise FileNotFoundError(f"File model tidak ditemukan: {MODEL_PATH.name}")
-    return joblib.load(MODEL_PATH)
+def train_model():
+    if not CSV_PATH.exists():
+        raise FileNotFoundError(f"File dataset tidak ditemukan: {CSV_PATH.name}")
+    
+    # Baca dataset
+    df = pd.read_csv(CSV_PATH)
+    X = df.drop(columns=["kematangan"])
+    y = df["kematangan"]
+    
+    # Definisi fitur numerik & kategorikal sesuai dataset Anda
+    fitur_numerik = ["diameter_cm", "berat_gram", "tebal_kulit_mm", "kadar_gula_brix"]
+    fitur_kategorikal = ["asal_daerah", "warna_kulit", "musim_panen"]
+    
+    # Pipeline Preprocessing
+    transformer_numerik = Pipeline(steps=[
+        ("imputer", SimpleImputer(strategy="median")),
+        ("scaler", StandardScaler())
+    ])
+    
+    transformer_kategorikal = Pipeline(steps=[
+        ("imputer", SimpleImputer(strategy="most_frequent")),
+        ("encoder", OneHotEncoder(handle_unknown="ignore"))
+    ])
+    
+    preprocessor = ColumnTransformer(
+        transformers=[
+            ("num", transformer_numerik, fitur_numerik),
+            ("cat", transformer_kategorikal, fitur_kategorikal)
+        ]
+    )
+    
+    # Pipeline Gabungan dengan KNN
+    pipeline = Pipeline(steps=[
+        ("preprocessing", preprocessor),
+        ("model", KNeighborsClassifier(n_neighbors=3))
+    ])
+    
+    # Latih model secara otomatis
+    pipeline.fit(X, y)
+    return pipeline
 
 
 try:
-    model = load_model()
+    model = train_model()
     model_error = None
 except Exception as e:
     model = None
@@ -69,40 +104,9 @@ except Exception as e:
 # PERSIAPAN DATA
 # ==========================================
 
-CATEGORICAL_COLUMNS = ["asal_daerah", "warna_kulit", "musim_panen"]
-
-ALL_COLUMNS = [
-    "diameter_cm", "berat_gram", "tebal_kulit_mm", "kadar_gula_brix",
-    "asal_daerah", "warna_kulit", "musim_panen"
-]
-
-
 def prepare_input(model, raw_data):
-    expected_features = getattr(model, "feature_names_in_", None)
-
-    if expected_features is not None:
-        expected_features = list(expected_features)
-
-        if all(col in raw_data.columns for col in expected_features):
-            return raw_data[expected_features]
-
-        encoded = pd.get_dummies(raw_data, columns=CATEGORICAL_COLUMNS)
-        return encoded.reindex(columns=expected_features, fill_value=0)
-
-    n_features = getattr(model, "n_features_in_", None)
-
-    if n_features == len(ALL_COLUMNS):
-        return raw_data[ALL_COLUMNS]
-
-    encoded = pd.get_dummies(raw_data, columns=CATEGORICAL_COLUMNS)
-
-    if n_features is not None and len(encoded.columns) == n_features:
-        return encoded
-
-    raise ValueError(
-        "Format fitur input belum cocok dengan model. "
-        "Periksa kembali fitur dan encoding yang digunakan saat pelatihan."
-    )
+    # ColumnTransformer di dalam pipeline akan otomatis menangani encoding data baru
+    return raw_data
 
 
 def build_prob_rows(probability_map, top_label):
@@ -185,8 +189,8 @@ menggunakan algoritma K-Nearest Neighbors.</p>
 
 if model_error:
     st.error(
-        f"Model gagal dimuat: {model_error}\n\n"
-        "Pastikan file model berada satu folder dengan app.py."
+        f"Model gagal dimuat atau dilatih: {model_error}\n\n"
+        "Pastikan file dataset CSV berada satu folder dengan app.py."
     )
     st.stop()
 
