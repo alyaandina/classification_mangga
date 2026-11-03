@@ -1,8 +1,14 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
 import joblib
 import streamlit.components.v1 as components
 from pathlib import Path
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.impute import SimpleImputer
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
 
 # ==========================================
 # KONFIGURASI HALAMAN
