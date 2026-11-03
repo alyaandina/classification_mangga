@@ -131,11 +131,11 @@ footer,
 }
 
 .hero h1 {
-    margin: 20px 0 20px;
-    padding: 0;
+    margin: 20px 0 10px;
+    padding: 0 0 .18em 0 !important;
     font-family: 'Manrope', sans-serif;
     font-size: clamp(34px, 4.4vw, 54px);
-    line-height: 1.12;
+    line-height: 1.18;
     font-weight: 800;
     letter-spacing: -2.2px;
     color: #f2c45a;
@@ -719,19 +719,4 @@ footer,
     .card-top { top: 10px; right: 0; }
     .card-bottom { bottom: 12px; left: 0; }
 }
-/* Perbaikan agar bagian kanan hero tidak terpotong */
-@media (max-width: 992px) {
-  .hero {
-    flex-direction: column !important;
-    padding: 30px 20px !important;
-  }
-  .hero-visual {
-    width: 100% !important;
-    margin-top: 30px !important;
-    display: flex;
-    justify-content: center;
-  }
-}
-[data-testid="stToolbar"],
-[data-testid="stDecoration"],
-[data-testid="stStatusWidget"] { display: none !important; }
+
